@@ -1,1 +1,6 @@
-{}
+{
+  "version" : 1,
+  "linux" : "https://dl.dropboxusercontent.com/scl/fi/oqvwb141vk6tipzsnfz7v/Knight-Fight.x86_64?rlkey=v651kdmsc309eqmcnn185vr83&dl=0",
+  "windows" : "https://dl.dropboxusercontent.com/scl/fi/wf0mbs0sw18votfowjpjk/Knight-Fight.exe?rlkey=cz1rzeuged3ce0m7y124m4333&dl=0",
+  "pck" : "https://dl.dropboxusercontent.com/scl/fi/6tgb7ee1wxlcm4wwahnul/Knight-Fight.pck?rlkey=ok11hu34w7chtyemafrhhz3qt&dl=0"
+}
